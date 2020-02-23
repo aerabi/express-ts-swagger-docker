@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/angellandros/express-ts-swagger-docker.git"
+    "url": "git+ssh://git@github.com/aerabi/express-ts-swagger-docker.git"
   },
   "keywords": [
     "expressjs",
@@ -32,7 +32,7 @@
   "author": "Mohammad-Ali A'RÂBI <aerabi@gmx.de>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angellandros/express-ts-swagger-docker/issues"
+    "url": "https://github.com/aerabi/express-ts-swagger-docker/issues"
   },
-  "homepage": "https://github.com/angellandros/express-ts-swagger-docker#readme"
+  "homepage": "https://github.com/aerabi/express-ts-swagger-docker#readme"
 }
