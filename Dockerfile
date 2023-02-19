@@ -1,4 +1,4 @@
-FROM node:14.21.2
+FROM node:19.6.0-bullseye-slim
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
